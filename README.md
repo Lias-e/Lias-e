@@ -2,7 +2,7 @@
 
 باسم الله الرحمن الرحيم
  
-<table style="width: 504.328px; height: 312px;">
+
 <tbody>
 <tr style="height: 8.07812px;">
 <td style="width: 244px; height: 8.07812px;">
@@ -17,4 +17,3 @@
 <td style="width: 244.328px; height: 148px;">&nbsp;</td>
 </tr>
 </tbody>
-</table>
