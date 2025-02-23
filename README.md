@@ -4,7 +4,7 @@
 ---
 
 #### - 🧠 I’m currently learning **Flutter, dart & go**
-#### - 🖥️🎓 I study computer science.
+#### - 🖥️🎓 I'm studying computer science.
 #### - 🔪 I'm a 3d hobbyist.
 #### - 🎮 Intrested in game development.
 
