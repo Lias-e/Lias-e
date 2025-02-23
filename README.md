@@ -9,7 +9,8 @@
 #### - 🎮 Intrested in game development.
 
 
-</div><h3 align="centre">Connect with me:</h3>
+</div>
+<h3 align="centre">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/ilyeskouachi" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="ilyeskouachi" height="30" width="40" /></a><a href="https://fb.com/ilyes.kouachi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="ilyes.kouachi1" height="30" width="40" /></a><a href="https://instagram.com/ilyes.kouachi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="ilyes.kouachi1" height="30" width="40" /></a><a href="https://www.behance.net/ilyeskouachi" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/behance.svg" alt="ilyeskouachi" height="30" width="40" /></a></p>
 
