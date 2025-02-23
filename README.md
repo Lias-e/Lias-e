@@ -3,10 +3,10 @@
 
 ---
 
-###### - 🧠 I’m currently learning **Flutter, dart & go**
-###### - 🖥️🎓 I study computer science.
-###### - 🔪 I'm a 3d hobbyist.
-###### - 🎮 Intrested in game development.
+#### - 🧠 I’m currently learning **Flutter, dart & go**
+#### - 🖥️🎓 I study computer science.
+#### - 🔪 I'm a 3d hobbyist.
+#### - 🎮 Intrested in game development.
 
 
 </div><h3 align="centre">Connect with me:</h3>
