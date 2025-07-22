@@ -26,8 +26,33 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/adobe_illustrator-icon%20(1).svg" alt="Adobe Illustrator" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 
-<h3 align="center">Stars</h3>
-<img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lias-e&theme=transparent" alt="lias-e" />
+<h3 align="center">Skills Map</h3>
+<br>
+
+```mermaid
+mindmap
+  root((Skills))
+    Frontend
+      Flutter
+      HTML/CSS
+    Backend
+      PHP
+    Databases
+      MySQL
+      Firebase
+      MongoDB
+    DevOps
+      Docker
+      GitHub Actions
+    Languages
+      C
+      C++
+      C#
+      PHP
+      Dart
+      
+```
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <a href="https://github.com/lias-e">
