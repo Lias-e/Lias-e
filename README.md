@@ -43,7 +43,6 @@ mindmap
       MongoDB
     DevOps
       Docker
-      GitHub Actions
     Languages
       C
       C++
