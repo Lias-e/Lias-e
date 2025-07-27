@@ -54,8 +54,7 @@ mindmap
 
 
 <h3 align="center">Statistics</h3>
-<br>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Lias-e.Lias-e)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Lias-e.Lias-e" alt="visitor badge"/>
 <br>
 <a href="https://github.com/lias-e">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lias-e&theme=transparent" height="180em" />
