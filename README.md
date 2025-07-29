@@ -3,7 +3,7 @@
 
 ---
 
-#### - 🧠 I’m currently learning **Flutter, go, php & js**
+#### - 🧠 I’m currently learning **Flutter,Vue, go, js**
 #### - 🖥️🎓 I'm studying computer science.
 #### - 🔪 I'm a 3d hobbyist.
 #### - 🎮 Intrested in game development.
@@ -54,7 +54,7 @@ mindmap
 
 
 <h3 align="center">Statistics</h3>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Lias-e.Lias-e" alt="visits badge"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Lias-e.Lias-e" alt="visits badge"/>  <a href="https://wakatime.com/@9b8d01c3-37ec-484d-af70-824dcb9bea67"><img src="https://wakatime.com/badge/user/9b8d01c3-37ec-484d-af70-824dcb9bea67.svg" alt="Total time coded since Jul 15 2024" /></a>
 <br>
 <a href="https://github.com/lias-e">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lias-e&theme=transparent" height="180em" />
